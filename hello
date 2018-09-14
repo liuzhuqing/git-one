@@ -1,2 +1,7 @@
 hello
 good morning
+<<<<<<< HEAD
+testtest
+=======
+hi
+>>>>>>> parent of 8515a2d... add hhh
